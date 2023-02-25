@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Cold Flash",
+        "position": "mainMenu",
+        "items": [
+            {
+                "id": 1677305818776,
+                "label": "hello world",
+                "title": "what",
+                "type": "post",
+                "target": "_self",
+                "rel": "",
+                "link": 1,
+                "cssClass": "",
+                "isHidden": false,
+                "items": []
+            },
+            {
+                "id": 1677306066891,
+                "label": "Characterization",
+                "title": "whut",
+                "type": "frontpage",
+                "target": "_self",
+                "rel": "",
+                "link": "empty",
+                "cssClass": "",
+                "isHidden": false,
+                "items": []
+            }
+        ]
+    }
+]

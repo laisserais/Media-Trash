@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Media Trash</title>
+    <link href="https://laisserais.github.io/Media-Trash/feed.xml" rel="self" />
+    <link href="https://laisserais.github.io/Media-Trash" />
+    <updated>2023-02-24T22:19:35-08:00</updated>
+    <author>
+        <name>laisserais</name>
+    </author>
+    <id>https://laisserais.github.io/Media-Trash</id>
+
+    <entry>
+        <title>Title of a Post</title>
+        <author>
+            <name>laisserais</name>
+        </author>
+        <link href="https://laisserais.github.io/Media-Trash/title-of-a-post.html"/>
+        <id>https://laisserais.github.io/Media-Trash/title-of-a-post.html</id>
+
+        <updated>2023-02-24T22:14:37-08:00</updated>
+            <summary>
+                <![CDATA[
+                    # This is a second post. ## Why won't headers work.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p># This is a second post.</p>
+<p> </p>
+<h1>## Why won't headers work.</h1>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>hello world</title>
+        <author>
+            <name>laisserais</name>
+        </author>
+        <link href="https://laisserais.github.io/Media-Trash/hello-world.html"/>
+        <id>https://laisserais.github.io/Media-Trash/hello-world.html</id>
+            <category term="trash"/>
+
+        <updated>2023-02-24T22:19:35-08:00</updated>
+            <summary>
+                <![CDATA[
+                    this one time at bandcamp how you doing
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <h2 id="this-one-time">this one time</h2>
+<p>at bandcamp</p>
+<hr>
+
+<h4 id="this-is-h4">this is h4</h4>
+<p>how you doing</p>
+
+            ]]>
+        </content>
+    </entry>
+</feed>

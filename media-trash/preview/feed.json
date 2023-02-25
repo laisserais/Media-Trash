@@ -1,0 +1,42 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Media Trash",
+    "description": "",
+    "home_page_url": "file:///C:\Users\karis\OneDrive\Documents\Github\Media-Trash\media-trash\preview",
+    "feed_url": "file:///C:\Users\karis\OneDrive\Documents\Github\Media-Trash\media-trash\preview/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "laisserais"
+    },
+    "items": [
+        {
+            "id": "file:///C:\Users\karis\OneDrive\Documents\Github\Media-Trash\media-trash\preview/title-of-a-post.html",
+            "url": "file:///C:\Users\karis\OneDrive\Documents\Github\Media-Trash\media-trash\preview/title-of-a-post.html",
+            "title": "Title of a Post",
+            "summary": "# This is a second post. ## Why won't headers work.",
+            "content_html": "<p># This is a second post.</p>\n<p> </p>\n<h1>## Why won't headers work.</h1>",
+            "author": {
+                "name": "laisserais"
+            },
+            "tags": [
+            ],
+            "date_published": "2023-02-24T22:14:37-08:00",
+            "date_modified": "2023-02-24T22:14:37-08:00"
+        },
+        {
+            "id": "file:///C:\Users\karis\OneDrive\Documents\Github\Media-Trash\media-trash\preview/hello-world.html",
+            "url": "file:///C:\Users\karis\OneDrive\Documents\Github\Media-Trash\media-trash\preview/hello-world.html",
+            "title": "hello world",
+            "summary": "this one time at bandcamp how you doing",
+            "content_html": "<h2 id=\"this-one-time\">this one time</h2>\n<p>at bandcamp</p>\n<hr>\n\n<h4 id=\"this-is-h4\">this is h4</h4>\n<p>how you doing</p>\n",
+            "author": {
+                "name": "laisserais"
+            },
+            "tags": [
+                   "trash"
+            ],
+            "date_published": "2023-02-24T21:01:27-08:00",
+            "date_modified": "2023-02-24T22:19:35-08:00"
+        }
+    ]
+}
